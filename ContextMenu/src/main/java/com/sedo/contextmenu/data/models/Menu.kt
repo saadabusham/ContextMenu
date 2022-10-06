@@ -6,5 +6,6 @@ data class Menu(
     val titleColor: Int? = null,
     val titleColorHex: String? = null,
     val iconTint: Int? = null,
-    val iconTintHex: String? = null
+    val iconTintHex: String? = null,
+    val type: Int? = null
 )
